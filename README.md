@@ -13,8 +13,8 @@ This is a simple trading bot that buys and sells based on the percentage change 
 1. Clone this repository and navigate to the directory.
 
 ```
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
-    cd YOUR_REPOSITORY
+    git clone https://github.com/ryurina/binance-bot-gpt
+    cd binance-bot-gpt
 ```
 
 2. Replace the YOUR_API_KEY and YOUR_API_SECRET placeholders in the code with your own API keys.
@@ -39,4 +39,4 @@ You can configure the following parameters in the code:
 
 This is a sample trading bot for educational purposes only. It is not intended to be used for real trading. Use it at your own risk.
 
-#### PS: This README.md was provide entirely by ChatGPT
+#### PS: This README.md was written by ChatGPT (https://chat.openai.com)

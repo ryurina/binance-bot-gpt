@@ -39,4 +39,4 @@ You can configure the following parameters in the code:
 
 This is a sample trading bot for educational purposes only. It is not intended to be used for real trading. Use it at your own risk.
 
-#### PS: This README.md and the code was written by ChatGPT (https://chat.openai.com)
+#### PS: This README.md and the code were written by ChatGPT (https://chat.openai.com)
